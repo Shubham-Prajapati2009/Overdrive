@@ -1,3 +1,0 @@
-# This is a dummy file for the Build folder.
-
-This file indicates that the Build folder has been created successfully.
